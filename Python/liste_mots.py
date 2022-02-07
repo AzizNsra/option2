@@ -14,8 +14,8 @@ dico = {}
 
 #saisie et comptage à la volée
 while True:
-    #saisie
-    mot = input("Mot : ")
+    
+    mot = "tt"
     mot = mot.upper()
     #est-ce le mot stop ?
     if (mot == "STOP"):
