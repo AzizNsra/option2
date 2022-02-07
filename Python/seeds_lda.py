@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 
 #modification du dossier par défaut
-import os
-os.chdir("D:/Miscellanous/Bureau/Travail Machine Universite/_Seances - Prospective - 2020 2021/m1-info-dm/Seance_5")
+
 
 #lire les données d'apprentissage
 import pandas
