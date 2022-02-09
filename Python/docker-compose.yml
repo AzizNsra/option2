@@ -1,7 +1,7 @@
 version: "3.9"
 services:
   app:
-    build: ./Python
+    build: .
   python:
     image: "python:3.8-slim-buster"
     
